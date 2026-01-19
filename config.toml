@@ -10,7 +10,7 @@ parallel-jobs = 1
 #Morphe
 [YT-Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "MorpheApp/morphe-patches"
+patches-source = "wchill/rvx-morphed"
 patches-version = "dev"
 cli-source = "MorpheApp/morphe-cli"
 cli-version = "dev"
