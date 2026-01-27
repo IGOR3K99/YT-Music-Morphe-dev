@@ -1,5 +1,5 @@
-YT-Music (arm64-v8a): 9.03.52  
-YT-Music (arm-v7a): 9.03.52  
+YT-Music (arm64-v8a): 9.04.50  
+YT-Music (arm-v7a): 9.04.50  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music Morphe APK  
 
