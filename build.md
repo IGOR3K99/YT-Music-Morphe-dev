@@ -5,6 +5,6 @@ Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root Y
 
 [YT-Music-Morphe-dev](https://github.com/IGOR3K99/YT-Music-Morphe-dev)
   
-CLI: MorpheApp/morphe-cli-1.1.0-all.jar  
-Patches: MorpheApp/patches-1.10.0-dev.2.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.10.0-dev.2)  
+CLI: MorpheApp/morphe-cli-1.2.0-dev.1-all.jar  
+Patches: MorpheApp/patches-1.11.0-dev.3.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.11.0-dev.3)  
