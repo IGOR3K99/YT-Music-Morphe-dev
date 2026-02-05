@@ -18,6 +18,6 @@ cli-version = "dev"
 arch = "both"
 build-mode = "apk"
 rv-brand = "Morphe-dev"         # eindeutiger Release-Name für Morphe-YT Music
-version = "9.04.50"
+version = "9.05.51"
 included-patches = "'Change package name'"
 patcher-args = "-e 'Change package name' -OpackageName=com.netease.cloudmusic"
