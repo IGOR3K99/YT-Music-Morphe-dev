@@ -1,13 +1,10 @@
-GooglePhotos (arm64-v8a): 7.63.0.869312946  
-Music (arm64-v8a): 8.10.52  
-Music (arm-v7a): 8.10.52  
-YouTube: 20.14.43  
+YT-Music (arm64-v8a): 9.06.52  
+YT-Music (arm-v7a): 9.06.52  
 
-Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
-Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
+Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music Morphe APK  
 
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+[YT-Music-Morphe-dev](https://github.com/IGOR3K99/YT-Music-Morphe-dev)
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.50.2.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)  
+CLI: MorpheApp/morphe-cli-1.4.0-dev.6-all.jar  
+Patches: MorpheApp/patches-1.15.0-dev.4.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.15.0-dev.4)  
